@@ -1,15 +1,19 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import { ThemeProvider } from 'styled-components'
 import './index.css'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
 import { I18nextProvider } from 'react-i18next'
 import i18n from './i18n'
+import theme from './configs/theme.json'
 ReactDOM.render(
   <I18nextProvider i18n={i18n}>
-    <React.StrictMode>
-      <App />
-    </React.StrictMode>
+    <ThemeProvider theme={theme}>
+      <React.StrictMode>
+        <App />
+      </React.StrictMode>
+    </ThemeProvider>
   </I18nextProvider>,
   document.getElementById('root')
 )
