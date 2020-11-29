@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Initialize react app source base with typescript and craco
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This source base project react config with craco +typescrip and popular libarary like i18n, styled-components
 
 ## Available Scripts
 
