@@ -1,0 +1,173 @@
+{
+    "appInfo": {
+      "footer": "",
+      "name": "React Typescrip Base"
+    },
+    "ZERO_RESULTS": "Address not found",
+    "sideBar": {
+      "dashboard": "Dashboard",
+      "settings": "Settings",
+      "users": "Users",
+      "articles": "Articles",
+      "customers": "Customers",
+      "authors": "Authors",
+      "categories": "Categories",
+      "pages": "Pages",
+      "members": "Members",
+      "projects": "Projects",
+      "devices": "Devices"
+    },
+    "header": {
+      "profile": "Profile",
+      "logout": "Logout"
+    },
+    "login": {
+      "title": "Login",
+      "subTitle": "The innovative mobile apps and webs for Schools and Parent to take care our kids",
+      "rememberMe": "Remember me",
+      "loginBtn": "Log in",
+      "yourEmail": "Your Email",
+      "resetPassword": "Reset password",
+      "password": "Password"
+    },
+  
+    "register": {
+      "title": "Register",
+      "registerBtn": "Register"
+    },
+  
+    "forgotPassword": {
+      "title": "Forgot password",
+      "success": {
+        "title": "Reset Password Success!",
+        "description": "Please check your email and create a new password."
+      }
+    },
+  
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "settings": {
+      "header": "Settings"
+    },
+    "home": {
+      "title": {
+        "orders": "Orders",
+        "overview": "Overview"
+      }
+    },
+    "profile": {
+      "header": "Profile",
+      "profileInfo": "Profile info",
+      "email": "Email",
+      "uploadAvatar": "Upload avatar",
+      "username": "Username",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "gender": "Gender",
+      "phone": "Phone"
+    },
+    "notifications": {},
+    "admins": {
+      "createPage": "Create Admin"
+    },
+    "isActive": {
+      "deactive": "Inactive",
+      "active": "Active"
+    },
+    "isDisabled": {
+      "disabled": "Disabled",
+      "notDisabled": "Not disabled"
+    },
+    "users": {
+      "title": "Users",
+      "header": "Staff",
+      "generalInfo": "General Info",
+      "privateInfo": "Private Info",
+      "id": "Id",
+      "familyName": "Family name",
+      "middleName": "Middle name",
+      "gender": "Gender",
+      "birthday": "Birthday",
+      "nationality": "Nationality",
+      "departmentID": "Department"
+    },
+    "role": {
+      "superadmin": "Superadmin",
+      "admin": "admin"
+    },
+    "button": {
+      "create": "Create",
+      "add": "Add",
+      "edit": "Edit",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "save": "Save",
+      "ok": "Ok",
+      "search": "Search",
+      "reset": "Reset",
+      "resetMyPassword": "Reset Password",
+      "submit": "Submit",
+      "call": "Call",
+      "loadMore": "Load More...",
+      "sentInvite": "Sent Invite",
+      "resendInvite": "Resend Invite",
+      "editProfile": "Edit profile",
+      "pin": "Pin",
+      "unpin": "Unpin",
+      "filter": "Filter",
+      "clearFilter": "Clear",
+      "change": "Change",
+      "confirm": "Confirm",
+      "backToHome": "Back Home"
+    },
+    "popup": {
+      "alertDelete": "Delete Data",
+      "alertDeleteDes": "Do you want to delete item {{customMessage}}?"
+    },
+    "error": {
+      "validateType": "Invalid",
+      "title": "Oops!",
+      "description": "Some thing wrong!",
+      "phone": "The input is not valid Phone!",
+      "waitingUpdate": "Waiting for updates"
+    },
+  
+    "success": {
+      "title": "Successfully!",
+      "description": "the update is successful!"
+    },
+    "statuses": {
+      "name": "Name",
+      "color": "Color",
+      "isActive": "Status",
+      "createPage": "Create Status",
+      "editPage": "Edit Status"
+    },
+    "gender": {
+      "title": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "inprogress": "In Progress",
+      "approved": "Approved"
+    },
+    "placeholder": {
+      "undefined": "select..."
+    },
+    "text": {
+      "or": "OR"
+    },
+    "currencyUnit": {
+      "text": "USD",
+      "sign": "$"
+    },
+    "empty": {
+      "page": "Sorry, the page you visited does not exist."
+    }
+  }
+  
